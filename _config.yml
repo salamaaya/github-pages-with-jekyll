@@ -1,13 +1,13 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Aya's Blog
+author: salamaaya
+email: asalama0214@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Hello and welcome! My name is Aya Salama, a senior graduating from EBHS. This site is meant to show a glimpse of my life!
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: i don't use twitter
+github_username:  salamaaya
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+
+theme: minima
